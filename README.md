@@ -22,7 +22,6 @@
 
 ### 🌐 Connect with me  
 <p align="left">
-  <a href="https://codepen.io/brillonadam" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" height="40"/></a>
   <a href="https://twitter.com/_admx_" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
   <a href="https://www.linkedin.com/in/adambrillon/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://instagram.com/adm.focus" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
